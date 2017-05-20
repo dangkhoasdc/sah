@@ -46,7 +46,7 @@ The pre-trained models are provided as the following format:
 sah_{dataset-name}_c{code-length}
 ```
 
-Test a model
+Testing models
 ============
 
 In `test_retrieval.m`, please change `dataset` to `holidays/oxford5k` to test on Holidays and Oxford5k , respectively. You also need to change `code_length` to `8/16/24/32` in order to achieve the result as which are reported in the paper. By default, please put datasets on the `data` folder and pre-trained `sah` models into the `workdir` folder. Finally, run `test_retrieval`.

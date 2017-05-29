@@ -55,7 +55,7 @@ The table shows the mAP results in Oxford5k and Holidays datasets:
 
 | Dataset       | 8     | 16     | 24    | 32    |
 | ------------- |:-----:| :-----:|:-----:|:-----:|
-| Oxford5k      | 8.44  | 12.70  | 14.05 | 18.05 |
+| Oxford5k      | 8.44  | 12.70  | 15.26 | 18.05 |
 | Holidays      | 7.52  | 21.15  | 33.02 | 39.18 |
 
 

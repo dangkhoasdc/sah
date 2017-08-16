@@ -13,11 +13,12 @@ The work will be presented in CVPR 2017.
 If you use the code in your paper, then please cite it as:
 
 ```
-@article{do2017simultaneous,
-  title={Simultaneous Feature Aggregating and Hashing for Large-scale Image Search},
-  author={Do, Thanh-Toan and Tan, Dang-Khoa Le and Pham, Trung T and Cheung, Ngai-Man},
-  journal={arXiv preprint arXiv:1704.00860},
-  year={2017}
+@InProceedings{Do_2017_CVPR,
+    author = {Do, Thanh-Toan and Le Tan, Dang-Khoa and Pham, Trung T. and Cheung, Ngai-Man},
+    title = {Simultaneous Feature Aggregating and Hashing for Large-Scale Image Search},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {July},
+    year = {2017}
 }
 ```
 

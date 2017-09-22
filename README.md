@@ -31,7 +31,7 @@ All training data in the code are extracted from conv5 layer in the network [VGG
 We provide following data for training/testing:
 
 - Training data/ Dataset/ Query and groundtruth of Oxford5k
-    - [`paris6k_conv5_vgg16`](https://www.dropbox.com/s/vaw1s64rlamr0t8/paris6k_conv5_vgg16.mat?dl=0)
+    - [`paris6k_conv5_vgg16`](https://www.dropbox.com/s/qnsmxe2ubfv47s8/paris6k_conv5_vgg16.mat?dl=0)
     - [`oxford5k_conv5_vgg16`](https://www.dropbox.com/s/4d5yth1upo7x4tp/oxford5k_conv5_vgg16.mat?dl=0)
     - [`oxfordq_conv5_vgg16`](https://www.dropbox.com/s/v45rn2wzrimjcp6/oxfordq_conv5_vgg16.mat?dl=0)
     - [groundtruth](https://www.dropbox.com/s/xwdykr99r2ughhv/gnd_oxford5k.mat?dl=0)

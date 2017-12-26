@@ -26,7 +26,7 @@ c2 = rand(D,1);
 for i = 1:max_iter
 %% given B, compute W1
 %W1 = (lambda*B*X')/(lambda*(X*X') + beta*eye(D)); % b*inv(A) = b/A;
-W1 = lambda*((B+c1*ones(1,m))*X')/(lambda*(X*X') + beta*eye(D));
+W1 = lambda*((B-c1*ones(1,m))*X')/(lambda*(X*X') + beta*eye(D));
 
 %% given B, compute W2
 %W2 = (X*B')/(B*B' + beta*eye(L));
